@@ -1,4 +1,4 @@
-# ECS-164-Projects
+# ECS-164-Project: AggieSpace Mobile App
 
 ## Summer Session II 2025 | University of California, Davis (UC Davis)
 
